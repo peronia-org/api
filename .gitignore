@@ -1,0 +1,3 @@
+node_modules
+*.bin.ts
+.DS_Store
